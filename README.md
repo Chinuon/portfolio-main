@@ -1,4 +1,4 @@
-# portfolio-main
+# portfolio
 chaitanyassr's portfolio made with hugo.
 
 ## Develop Locally
